@@ -33,6 +33,8 @@ Sum all of the final digits:
 
 [8, 9, 1] ==> 8 + 9 + 1 = 18
 
+<br>
+
 Finally, take that sum and divide it by 10. If the remainder equals zero, the original credit card number is valid.
 
 18 (modulus) 10 ==> 8 , which is not equal to 0, so this is not a valid credit card number
